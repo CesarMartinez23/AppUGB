@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">App UGB</string>
+
+    <string name="title_himno_ugb">HIMNO UGB</string>
+    <string name="himno_ugb">
+Somos fuerza de una gran nación,
+\nforjadores de unidad,
+        \nnuestras mentes, nuestro corazón
+\nvan en busca de verdad.
+\nCon espíritu trabajador,
+\nsin descanso hasta triunfar
+\nlucharemos siempre con valor
+\npor la paz reconquistar.
+\nNuestro hogar, nuestro orgullo es Oriente,
+\nnuestra estrella es inmortal y en Barrios aún sigue latente
+\nel progreso cual noble ideal.
+\nUniversidad Gerardo Barrios
+\nformación profesional
+\nque transforma y educa con fe en Dios
+\nel futuro nacional.
+\nNuestro hogar, nuestro orgullo es Oriente,
+\nnuestra estrella es inmortal
+\ny en Barrios aún sigue latente
+\nel progreso cual noble ideal.
+</string>
+    <string name="txt_btn_play">Play</string>
+
+</resources>
